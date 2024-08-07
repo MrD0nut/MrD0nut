@@ -9,9 +9,6 @@ Hi, I'm an aspiring developer from the UK. <br>I'm looking to create unique reso
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrD0nut&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrD0nut&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=MrD0nut&icon=2&color=4)](https://visitcount.itsvg.in)
 
